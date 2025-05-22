@@ -1,26 +1,27 @@
-# 🍣 Site de Culinária Japonesa
+# 🍣 Site do Restaurante Japonês
 
-Um site desenvolvido para compartilhar receitas tradicionais e modernas da culinária japonesa. Idealizado como parte do meu portfólio, este projeto destaca minhas habilidades em desenvolvimento web com foco em design, responsividade e conteúdo gastronômico.
+Este é o site oficial de um restaurante especializado em culinária japonesa, criado como parte do meu portfólio. O site apresenta o cardápio completo com preços, pratos típicos e informações sobre localização e contato.
 
 ## 📌 Visão Geral
 
-O site apresenta receitas clássicas como sushi, ramen, tempurá e muito mais. Cada receita conta com ingredientes, modo de preparo passo a passo, tempo estimado e imagens ilustrativas. Também inclui uma seção de curiosidades sobre a cultura alimentar do Japão.
+O projeto tem como objetivo simular um site real de restaurante japonês, com um design moderno e responsivo. Ideal para mostrar habilidades em desenvolvimento web com foco em usabilidade e apresentação de informações comerciais.
 
 ## 🛠 Tecnologias Utilizadas
 
 - **HTML5**
 - **CSS3** (ex: TailwindCSS ou Bootstrap)
 - **JavaScript**
-- *(Opcional)* Framework como React, Vue.js, etc.
-- *(Opcional)* CMS ou backend, se utilizado
+- *(Opcional)* Framework como React ou Vue.js
+- *(Opcional)* Mapa integrado (Google Maps, Leaflet, etc.)
 
 ## 🎨 Funcionalidades
 
-- Página inicial com destaques de receitas populares
-- Filtro por tipo de prato (entrada, prato principal, sobremesa)
-- Página individual para cada receita
-- Design responsivo para dispositivos móveis
-- Dark mode *(se implementado)*
+- Página inicial com destaque para pratos populares e promoções
+- Cardápio completo com preços e descrições
+- Página com informações de localização (mapa) e horário de funcionamento
+- Seção de contato com formulário ou botão de WhatsApp
+- Design responsivo (desktop e mobile)
+
 
 ## 🚀 Como Executar Localmente
 
